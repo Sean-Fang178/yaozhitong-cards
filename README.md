@@ -2,7 +2,7 @@
 
 **線上網址：** <https://sean-fang178.github.io/yaozhitong-cards/>
 
-[藥智通](https://github.com/Sean-Fang178/yaozhitong) 的精簡版：把食藥署官方仿單改寫成長輩看得懂的白話，一款藥一張卡，每一句都能展開「對照仿單原文」。
+把食藥署官方仿單改寫成長輩看得懂的白話，一款藥一張卡，每一句都能展開「對照仿單原文」。
 
 - 純 HTML / CSS / JavaScript，沒有建置步驟，直接用 GitHub Pages 發布
 - 內容全部在 `data/`，新增一款藥只要加一個 JSON 檔、在清單裡加一行

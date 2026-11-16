@@ -1,0 +1,28 @@
+{
+  "id": "example-drug",
+  "shortName": "口語簡稱",
+  "nameZh": "仿單中文品名",
+  "nameEn": "仿單英文品名",
+  "licenseNo": "衛部藥製字第000000號",
+  "category": "須由醫師處方使用",
+  "ingredients": ["INGREDIENT NAME"],
+  "dosageForm": "錠劑",
+  "manufacturer": "製造廠名稱",
+  "tags": ["用途標籤"],
+  "sourceUrl": "https://mcp.fda.gov.tw/...",
+  "sections": {
+    "whatIsIt": { "text": "", "sources": [] },
+    "purpose": { "text": "", "sources": [] },
+    "howToTake": { "text": "", "sources": [] },
+    "sideEffects": { "text": "", "sources": [] },
+    "seekCare": { "text": "", "sources": [] }
+  },
+  "lists": {
+    "contraindications": [{ "text": "", "sources": [] }],
+    "diet": [],
+    "population": []
+  },
+  "leaflet": {
+    "example-drug-indication": "【適應症】仿單原文逐字照抄"
+  }
+}
